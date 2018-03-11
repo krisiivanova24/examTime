@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\Exercise. 1\bin\Debug\Exercise. 1.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\Exercise. 1\bin\Debug\Exercise. 1.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\Exercise. 1\bin\Debug\Exercise. 1.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\Exercise. 1\obj\Debug\Exercise. 1.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\Exercise. 1\obj\Debug\Exercise. 1.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\Exercise. 1\obj\Debug\Exercise. 1.pdb

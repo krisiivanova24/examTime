@@ -1,0 +1,6 @@
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\03 Strings\bin\Debug\03 Strings.exe.config
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\03 Strings\bin\Debug\03 Strings.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\03 Strings\bin\Debug\03 Strings.pdb
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\03 Strings\obj\Debug\03 Strings.csprojResolveAssemblyReference.cache
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\03 Strings\obj\Debug\03 Strings.exe
+C:\Users\STUDENTS\Desktop\NP_IT24\forExam\EXAMtime\03 Strings\obj\Debug\03 Strings.pdb
